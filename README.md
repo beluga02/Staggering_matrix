@@ -1,2 +1,2 @@
 # Gauss-Elimination
-Using the Gauss Elimintation to solve a matrix. The program was done using Python.
+Using the Gauss Elimination to solve a linear system. The program was done using Python.
